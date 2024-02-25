@@ -69,6 +69,7 @@ function handleAddFile(err, fileItem) {
 </div>
 
 <style global>
+@import 'filepond/dist/filepond.css';
 @import 'filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css';
 </style>
 ```
